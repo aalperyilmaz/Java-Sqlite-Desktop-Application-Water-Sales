@@ -1,7 +1,9 @@
-# Java-Sqlite-Desktop-Application--Water-Sales
+# Java-Sqlite-Desktop-Application-Water-Sales
 
 
-Uygulama Açıklaması
+The Water Sales Automation application has been developed in order to provide a practical management of the Water Sales operations of a company that sells water.
+This project was developed in  NetBeans Environment, using  Java programming language and SQLite was used as database.
+
 
 ## Kullanılan Diller ve Yetenekler
 
